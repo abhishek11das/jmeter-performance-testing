@@ -72,7 +72,7 @@ For the detailed results of both Load and Stress tests, check the Excel file bel
 
 [**View Excel Report File**](booking-api-test-report.xlsx)
 
-#### ⚠️ Make sure to delete the previous `Reports/` folder and `.jtl` file before generating a new report to avoid data conflicts.
+#### Caution: Make sure to delete the previous `Reports/` folder and `.jtl` file before generating a new report to avoid data conflicts.
 
 
 
