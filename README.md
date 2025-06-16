@@ -66,6 +66,12 @@ The performance testing is divided into two main parts:
 ### 📸 Stress Test HTML Report Screenshot
 ![image alt](https://github.com/abhishek11das/jmeter-performance-testing/blob/55a5688773ea6a6d8e1b3ca30494b58e718a1966/Stress%20Test.png)
 
+## 📊 Load and Stress Test Excel Report
+
+For the detailed results of both Load and Stress tests, check the Excel file below:
+
+🔗 [**View Excel Report File**](booking-api-test-report.xlsx)
+
 
 
 
