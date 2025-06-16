@@ -70,7 +70,7 @@ The performance testing is divided into two main parts:
 
 For the detailed results of both Load and Stress tests, check the Excel file below:
 
-🔗 [**View Excel Report File**](booking-api-test-report.xlsx)
+[**View Excel Report File**](booking-api-test-report.xlsx)
 
 
 
