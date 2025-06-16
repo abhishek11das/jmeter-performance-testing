@@ -64,7 +64,7 @@ The performance testing is divided into two main parts:
 ![image alt](https://github.com/abhishek11das/jmeter-performance-testing/blob/55a5688773ea6a6d8e1b3ca30494b58e718a1966/Load%20Test.png)
 
 ### 📸 Stress Test HTML Report Screenshot
-![image alt]([https://github.com/abhishek11das/jmeter-performance-testing/blob/55a5688773ea6a6d8e1b3ca30494b58e718a1966/Load%20Test.png](https://github.com/abhishek11das/jmeter-performance-testing/blob/55a5688773ea6a6d8e1b3ca30494b58e718a1966/Stress%20Test.png))
+![image alt](https://github.com/abhishek11das/jmeter-performance-testing/blob/55a5688773ea6a6d8e1b3ca30494b58e718a1966/Stress%20Test.png)
 
 
 
